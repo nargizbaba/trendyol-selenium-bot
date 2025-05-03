@@ -17,6 +17,13 @@ This project is a **Java-based Selenium automation bot** that navigates [Trendyo
 - **Build Tool**: Maven / Gradle
 - **Browser Support**: Chrome (via WebDriver)
 
+### 🛠 Tools & Purpose
+
+- **JUnit**: Manages test execution and provides detailed result tracking.
+- **Cucumber & Gherkin**: Enables writing test scenarios in a readable, business-friendly format.
+- **Extent Reports**: Generates visually rich and detailed reports for test results.
+
+
 ## 🏁 Getting Started
 
 ### Prerequisites
